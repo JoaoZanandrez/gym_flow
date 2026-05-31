@@ -65,13 +65,13 @@ Classificações utilizadas:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/academia-fit.git
+git clone https://github.com/seu-usuario/gym_flow.git
 ```
 
 ### 2. Acesse a pasta
 
 ```bash
-cd academia-fit
+cd gym_flow
 ```
 
 ### 3. Execute o programa
